@@ -1,0 +1,15 @@
+{
+  "name": "share-talent-rnd",
+  "version": "0.0.0",
+  "description": "Serba-serbi new share talent apps (POC)!",
+  "author": "adinovri",
+  "private": true,
+  "main": "main.js",
+  "dependencies": {
+    "@expo/vector-icons": "~4.0.0",
+    "expo": "^14.0.2",
+    "react": "~15.4.0",
+    "react-native": "https://github.com/exponent/react-native/archive/sdk-14.0.0.tar.gz",
+    "react-native-swipe-cards": "^0.1.0"
+  }
+}
